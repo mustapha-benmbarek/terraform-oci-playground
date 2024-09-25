@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "region-id": "eu-paris-1",
+            "region-name": "France Central (Paris)",
+            "compartment-id": "",
+            "compartment-name": "comp-app-prd",
+            "cpg-id": "",
+            "cpg-name": "cpg-prd",
+            "cpg-block-storage-enabled": true,
+            "cpg-compute-enabled": true
+        },
+        {
+            "region-id": "eu-paris-1",
+            "region-name": "France Central (Paris)",
+            "compartment-id": "",
+            "compartment-name": "comp-app-stg",
+            "cpg-id": "",
+            "cpg-name": "cpg-stg",
+            "cpg-block-storage-enabled": true,
+            "cpg-compute-enabled": true
+        },
+        {
+            "region-id": "eu-paris-1",
+            "region-name": "France Central (Paris)",
+            "compartment-id": "",
+            "compartment-name": "comp-app-dev",
+            "cpg-id": "",
+            "cpg-name": "cpg-dev",
+            "cpg-block-storage-enabled": true,
+            "cpg-compute-enabled": true
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "region-id": "eu-paris-1",
+            "comp-parent-name": "",
+            "comp-name": "comp-prd",
+            "comp-description": "Compartment Production"
+        },
+        {
+            "region-id": "eu-paris-1",
+            "comp-parent-name": "",
+            "comp-name": "comp-stg",
+            "comp-description": "Compartment Staging"
+        },
+        {
+            "region-id": "eu-paris-1",
+            "comp-parent-name": "",
+            "comp-name": "comp-dev",
+            "comp-description": "Compartment Development"
+        }
+    ]
+}

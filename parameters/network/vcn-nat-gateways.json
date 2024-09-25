@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "region-id": "eu-paris-1",
+      "region-name": "France Central (Paris)",
+      "compartment-id": "",
+      "compartment-name": "comp-app-prd",
+      "vcn-id": "",
+      "vcn-name": "vcn-app-prd",
+      "ngw-id": "",
+      "ngw-name": "ngw-app-prd",
+      "ngw-public-ip-type": "ephemeral",
+      "ngw-public-ip": ""
+    },
+    {
+      "region-id": "eu-paris-1",
+      "region-name": "France Central (Paris)",
+      "compartment-id": "",
+      "compartment-name": "comp-app-stg",
+      "vcn-id": "",
+      "vcn-name": "vcn-app-stg",
+      "ngw-id": "",
+      "ngw-name": "ngw-app-stg",
+      "ngw-public-ip-type": "ephemeral",
+      "ngw-public-ip": ""
+    },
+    {
+      "region-id": "eu-paris-1",
+      "region-name": "France Central (Paris)",
+      "compartment-id": "",
+      "compartment-name": "comp-app-dev",
+      "vcn-id": "",
+      "vcn-name": "vcn-app-dev",
+      "ngw-id": "",
+      "ngw-name": "ngw-app-dev",
+      "ngw-public-ip-type": "ephemeral",
+      "ngw-public-ip": ""
+    }
+  ]
+}
