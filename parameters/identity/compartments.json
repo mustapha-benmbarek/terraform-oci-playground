@@ -4,21 +4,21 @@
             "region-id": "eu-paris-1",
             "region-name": "France Central (Paris)",
             "comp-parent-name": "",
-            "comp-name": "comp-prd",
+            "comp-name": "comp-app-prd",
             "comp-description": "Compartment Production"
         },
         {
             "region-id": "eu-paris-1",
             "region-name": "France Central (Paris)",
             "comp-parent-name": "",
-            "comp-name": "comp-stg",
+            "comp-name": "comp-app-stg",
             "comp-description": "Compartment Staging"
         },
         {
             "region-id": "eu-paris-1",
             "region-name": "France Central (Paris)",
             "comp-parent-name": "",
-            "comp-name": "comp-dev",
+            "comp-name": "comp-app-dev",
             "comp-description": "Compartment Development"
         }
     ]
