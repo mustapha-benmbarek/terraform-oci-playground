@@ -7,8 +7,8 @@
             "compartment-name": "comp-app-prd",
             "cpg-id": "",
             "cpg-name": "cpg-prd",
-            "cpg-block-storage-enabled": true,
-            "cpg-compute-enabled": true
+            "cpg-block-storage-enable": true,
+            "cpg-compute-enable": true
         },
         {
             "region-id": "eu-paris-1",
@@ -17,8 +17,8 @@
             "compartment-name": "comp-app-stg",
             "cpg-id": "",
             "cpg-name": "cpg-stg",
-            "cpg-block-storage-enabled": true,
-            "cpg-compute-enabled": true
+            "cpg-block-storage-enable": true,
+            "cpg-compute-enable": true
         },
         {
             "region-id": "eu-paris-1",
@@ -27,8 +27,8 @@
             "compartment-name": "comp-app-dev",
             "cpg-id": "",
             "cpg-name": "cpg-dev",
-            "cpg-block-storage-enabled": true,
-            "cpg-compute-enabled": true
+            "cpg-block-storage-enable": true,
+            "cpg-compute-enable": true
         }
     ]
 }

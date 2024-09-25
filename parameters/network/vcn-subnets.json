@@ -1,19 +1,27 @@
 {
   "data": [
     {
-      "sn-region-id": "",
-      "sn-compartment-name": "",
-      "sn-name": ""
-    },
-    {
-      "sn-region-id": "",
-      "sn-compartment-name": "",
-      "sn-name": ""
-    },
-    {
-      "sn-region-id": "",
-      "sn-compartment-name": "",
-      "sn-name": ""
+      "region-id": "eu-paris-1",
+      "region-name": "France Central (Paris)",
+      "comp-id": "",
+      "comp-name": "comp-app-prd",
+      "vcn-id": "",
+      "vcn-name": "vcn-app-prd",
+      "sn-id": "",
+      "sn-name": "",
+      "sn-type": "regional/zonal",
+      "sn-availability-domain": "",
+      "sn-cidr-ipv4": [
+        "172.16.0.0/24"
+      ],
+      "sn-cidr-ipv6-enable": false,
+      "sn-access": "public/private",
+      "sn-dns-label": "",
+      "sn-dns-resolution-enable": true,
+      "sn-dhcp-options-id": "",
+      "sn-dhcp-options-name": "",
+      "sn-security-list-id": "",
+      "sn-security-list-name": ""
     }
   ]
 }

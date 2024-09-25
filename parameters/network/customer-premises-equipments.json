@@ -8,7 +8,7 @@
             "cpe-id": "",
             "cpe-name": "cpe-prd",
             "cpe-ip-address": "86.98.173.246",
-            "cpe-ipsec-fc-enabled": false,
+            "cpe-ipsec-fc-enable": false,
             "cpe-device-id": "149b571a-566c-4421-ad7a-5f919f855788",
             "cpe-vendor-name": "Check Point",
             "cpe-platform-name": "R80.20"
@@ -21,7 +21,7 @@
             "cpe-id": "",
             "cpe-name": "cpe-stg",
             "cpe-ip-address": "86.98.173.246",
-            "cpe-ipsec-fc-enabled": false,
+            "cpe-ipsec-fc-enable": false,
             "cpe-device-id": "6cc93134-0a80-4b98-be20-e11e40550054",
             "cpe-vendor-name": "Fortinet",
             "cpe-platform-name": "FortiGate 6.0.4 or later"
@@ -34,7 +34,7 @@
             "cpe-id": "",
             "cpe-name": "cpe-dev",
             "cpe-ip-address": "86.98.173.246",
-            "cpe-ipsec-fc-enabled": true,
+            "cpe-ipsec-fc-enable": true,
             "cpe-device-id": "3dfa07a4-f601-4cdc-bdd8-37868ee9d98c",
             "cpe-vendor-name": "Palo Alto",
             "cpe-platform-name": "PAN-OS 8.0.0"
