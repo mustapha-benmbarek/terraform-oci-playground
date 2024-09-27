@@ -1,0 +1,55 @@
+{
+    "data": [
+        {
+            "region-id": "eu-paris-1",
+            "region-name": "France Central (Paris)",
+            "comp-id": "",
+            "comp-name": "comp-app-prd",
+            "pbz-id": "",
+            "pbz-name": "prd.example.com",
+            "http-id": "",
+            "http-name": "http-app-prd",
+            "http-domain": "redirect.prd.example",
+            "http-response-code": "301",
+            "http-target-protocol": "HTTPS",
+            "http-target-host": "www.example.com",
+            "http-target-port": "443",
+            "http-target-path": "",
+            "http-target-query": ""
+        },
+        {
+            "region-id": "eu-paris-1",
+            "region-name": "France Central (Paris)",
+            "comp-id": "",
+            "comp-name": "comp-app-stg",
+            "pbz-id": "",
+            "pbz-name": "stg.example.com",
+            "http-id": "",
+            "http-name": "http-app-stg",
+            "http-domain": "redirect.stg.example",
+            "http-response-code": "301",
+            "http-target-protocol": "HTTPS",
+            "http-target-host": "www.example.com",
+            "http-target-port": "443",
+            "http-target-path": "",
+            "http-target-query": ""
+        },
+        {
+            "region-id": "eu-paris-1",
+            "region-name": "France Central (Paris)",
+            "comp-id": "",
+            "comp-name": "comp-app-dev",
+            "pbz-id": "",
+            "pbz-name": "dev.example.com",
+            "http-id": "",
+            "http-name": "http-app-dev",
+            "http-domain": "redirect.dev.example",
+            "http-response-code": "301",
+            "http-target-protocol": "HTTPS",
+            "http-target-host": "www.example.com",
+            "http-target-port": "443",
+            "http-target-path": "",
+            "http-target-query": ""
+        }
+    ]
+}
