@@ -3,8 +3,8 @@
     {
       "region-id": "eu-paris-1",
       "region-name": "France Central (Paris)",
-      "compartment-id": "",
-      "compartment-name": "comp-app-prd",
+      "comp-id": "",
+      "comp-name": "comp-app-prd",
       "vcn-id": "",
       "vcn-name": "vcn-app-prd",
       "ngw-id": "",
@@ -15,8 +15,8 @@
     {
       "region-id": "eu-paris-1",
       "region-name": "France Central (Paris)",
-      "compartment-id": "",
-      "compartment-name": "comp-app-stg",
+      "comp-id": "",
+      "comp-name": "comp-app-stg",
       "vcn-id": "",
       "vcn-name": "vcn-app-stg",
       "ngw-id": "",
@@ -27,8 +27,8 @@
     {
       "region-id": "eu-paris-1",
       "region-name": "France Central (Paris)",
-      "compartment-id": "",
-      "compartment-name": "comp-app-dev",
+      "comp-id": "",
+      "comp-name": "comp-app-dev",
       "vcn-id": "",
       "vcn-name": "vcn-app-dev",
       "ngw-id": "",

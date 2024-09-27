@@ -5,30 +5,30 @@
             "region-name": "France Central (Paris)",
             "comp-id": "",
             "comp-name": "comp-app-prd",
-            "cpg-id": "",
-            "cpg-name": "cpg-prd",
-            "cpg-block-storage-enable": true,
-            "cpg-compute-enable": true
+            "tsk-id": "",
+            "tsk-name": "tsk-app-prd",
+            "tsk-algorithm": "hmac-sha512",
+            "tsk-secret": "secret-hmac-sha512"
         },
         {
             "region-id": "eu-paris-1",
             "region-name": "France Central (Paris)",
             "comp-id": "",
             "comp-name": "comp-app-stg",
-            "cpg-id": "",
-            "cpg-name": "cpg-stg",
-            "cpg-block-storage-enable": true,
-            "cpg-compute-enable": true
+            "tsk-id": "",
+            "tsk-name": "tsk-app-stg",
+            "tsk-algorithm": "hmac-sha384",
+            "tsk-secret": "secret-hmac-sha384"
         },
         {
             "region-id": "eu-paris-1",
             "region-name": "France Central (Paris)",
             "comp-id": "",
             "comp-name": "comp-app-dev",
-            "cpg-id": "",
-            "cpg-name": "cpg-dev",
-            "cpg-block-storage-enable": true,
-            "cpg-compute-enable": true
+            "tsk-id": "",
+            "tsk-name": "tsk-app-dev",
+            "tsk-algorithm": "hmac-sha256",
+            "tsk-secret": "secret-hmac-sha256"
         }
     ]
 }

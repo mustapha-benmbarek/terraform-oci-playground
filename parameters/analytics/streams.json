@@ -3,8 +3,8 @@
         {
             "region-id": "eu-paris-1",
             "region-name": "France Central (Paris)",
-            "compartment-id": "",
-            "compartment-name": "comp-app-prd",
+            "comp-id": "",
+            "comp-name": "comp-app-prd",
             "stream-pool-id": "",
             "stream-pool-name": "strmp-prd",
             "stream-id": "",
@@ -15,8 +15,8 @@
         {
             "region-id": "eu-paris-1",
             "region-name": "France Central (Paris)",
-            "compartment-id": "",
-            "compartment-name": "comp-app-stg",
+            "comp-id": "",
+            "comp-name": "comp-app-stg",
             "stream-pool-id": "",
             "stream-pool-name": "strmp-stg",
             "stream-id": "",
@@ -27,8 +27,8 @@
         {
             "region-id": "eu-paris-1",
             "region-name": "France Central (Paris)",
-            "compartment-id": "",
-            "compartment-name": "comp-app-prd",
+            "comp-id": "",
+            "comp-name": "comp-app-prd",
             "stream-pool-id": "",
             "stream-pool-name": "strmp-dev",
             "stream-id": "",

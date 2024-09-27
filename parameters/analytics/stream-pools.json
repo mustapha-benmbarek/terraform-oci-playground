@@ -3,8 +3,8 @@
         {
             "region-id": "eu-paris-1",
             "region-name": "France Central (Paris)",
-            "compartment-id": "",
-            "compartment-name": "comp-app-prd",
+            "comp-id": "",
+            "comp-name": "comp-app-prd",
             "strmp-id": "",
             "strmp-name": "strmp-prd",
             "strmp-endpoint-type": "private",
@@ -23,8 +23,8 @@
         {
             "region-id": "eu-paris-1",
             "region-name": "France Central (Paris)",
-            "compartment-id": "",
-            "compartment-name": "comp-app-stg",
+            "comp-id": "",
+            "comp-name": "comp-app-stg",
             "strmp-id": "",
             "strmp-name": "strmp-stg",
             "strmp-endpoint-type": "private",
@@ -43,8 +43,8 @@
         {
             "region-id": "eu-paris-1",
             "region-name": "France Central (Paris)",
-            "compartment-id": "",
-            "compartment-name": "comp-app-dev",
+            "comp-id": "",
+            "comp-name": "comp-app-dev",
             "strmp-id": "",
             "strmp-name": "strmp-dev",
             "strmp-endpoint-type": "public",

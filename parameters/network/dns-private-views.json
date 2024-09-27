@@ -5,30 +5,24 @@
             "region-name": "France Central (Paris)",
             "comp-id": "",
             "comp-name": "comp-app-prd",
-            "cpg-id": "",
-            "cpg-name": "cpg-prd",
-            "cpg-block-storage-enable": true,
-            "cpg-compute-enable": true
+            "pvv-id": "",
+            "pvv-name": "pvv-prd"
         },
         {
             "region-id": "eu-paris-1",
             "region-name": "France Central (Paris)",
             "comp-id": "",
             "comp-name": "comp-app-stg",
-            "cpg-id": "",
-            "cpg-name": "cpg-stg",
-            "cpg-block-storage-enable": true,
-            "cpg-compute-enable": true
+            "pvv-id": "",
+            "pvv-name": "pvv-stg"
         },
         {
             "region-id": "eu-paris-1",
             "region-name": "France Central (Paris)",
             "comp-id": "",
             "comp-name": "comp-app-dev",
-            "cpg-id": "",
-            "cpg-name": "cpg-dev",
-            "cpg-block-storage-enable": true,
-            "cpg-compute-enable": true
+            "pvv-id": "",
+            "pvv-name": "pvv-dev"
         }
     ]
 }

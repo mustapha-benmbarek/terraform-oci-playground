@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "region-id": "eu-paris-1",
+            "region-name": "France Central (Paris)",
+            "comp-id": "",
+            "comp-name": "comp-app-prd",
+            "pvz-id": "",
+            "pvz-name": "example.com",
+            "pvr-id": "",
+            "pvr-name": "www.example.com",
+            "pvr-type": "A",
+            "pvr-ttl": "3600",
+            "pvr-value": "172.16.0.100"
+        },
+        {
+            "region-id": "eu-paris-1",
+            "region-name": "France Central (Paris)",
+            "comp-id": "",
+            "comp-name": "comp-app-stg",
+            "pvz-id": "",
+            "pvz-name": "stg.example.com",
+            "pvr-id": "",
+            "pvr-name": "www.stg.example.com",
+            "pvr-type": "A",
+            "pvr-ttl": "3600",
+            "pvr-value": "172.17.0.100"
+        },
+        {
+            "region-id": "eu-paris-1",
+            "region-name": "France Central (Paris)",
+            "comp-id": "",
+            "comp-name": "comp-app-dev",
+            "pvz-id": "",
+            "pvz-name": "dev.example.com",
+            "pvr-id": "",
+            "pvr-name": "www.dev.example.com",
+            "pvr-type": "A",
+            "pvr-ttl": "3600",
+            "pvr-value": "172.18.0.100"
+        }
+    ]
+}
