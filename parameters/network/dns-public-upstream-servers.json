@@ -5,24 +5,33 @@
             "region-name": "France Central (Paris)",
             "comp-id": "",
             "comp-name": "comp-app-prd",
-            "pvz-id": "",
-            "pvz-name": "pvz-app-prd"
+            "pbz-id": "",
+            "pbz-name": "pbz-app-prd",
+            "upstream-srv-ip-address": "2.2.2.2",
+            "tsk-id": "",
+            "tsk-name": "tsk-app-prd"
         },
         {
             "region-id": "eu-paris-1",
             "region-name": "France Central (Paris)",
             "comp-id": "",
             "comp-name": "comp-app-stg",
-            "pvz-id": "",
-            "pvz-name": "pvz-app-stg"
+            "pbz-id": "",
+            "pbz-name": "pbz-app-stg",
+            "upstream-srv-ip-address": "4.4.4.4",
+            "tsk-id": "",
+            "tsk-name": "tsk-app-stg"
         },
         {
             "region-id": "eu-paris-1",
             "region-name": "France Central (Paris)",
             "comp-id": "",
             "comp-name": "comp-app-dev",
-            "pvz-id": "",
-            "pvz-name": "pvz-app-dev"
+            "pbz-id": "",
+            "pbz-name": "pbz-app-dev",
+            "upstream-srv-ip-address": "8.8.8.8",
+            "tsk-id": "",
+            "tsk-name": "tsk-app-dev"
         }
     ]
 }

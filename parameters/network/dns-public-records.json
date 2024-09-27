@@ -5,24 +5,33 @@
             "region-name": "France Central (Paris)",
             "comp-id": "",
             "comp-name": "comp-app-prd",
-            "pvz-id": "",
-            "pvz-name": "pvz-app-prd"
+            "pbr-id": "",
+            "pbr-name": "www.example.com",
+            "pbr-type": "A",
+            "pbr-ttl": "3600",
+            "pbr-value": "7.7.7.7"
         },
         {
             "region-id": "eu-paris-1",
             "region-name": "France Central (Paris)",
             "comp-id": "",
             "comp-name": "comp-app-stg",
-            "pvz-id": "",
-            "pvz-name": "pvz-app-stg"
+            "pbr-id": "",
+            "pbr-name": "www.stg.example.com",
+            "pbr-type": "A",
+            "pbr-ttl": "3600",
+            "pbr-value": "8.8.8.8"
         },
         {
             "region-id": "eu-paris-1",
             "region-name": "France Central (Paris)",
             "comp-id": "",
             "comp-name": "comp-app-dev",
-            "pvz-id": "",
-            "pvz-name": "pvz-app-dev"
+            "pbr-id": "",
+            "pbr-name": "www.dev.example.com",
+            "pbr-type": "A",
+            "pbr-ttl": "3600",
+            "pbr-value": "9.9.9.9"
         }
     ]
 }
