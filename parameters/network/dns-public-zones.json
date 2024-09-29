@@ -8,7 +8,7 @@
             "pbz-id": "",
             "pbz-name": "pbz-app-prd",
             "pbz-type": "primary",
-            "pbz-upstream-ip-address": "",
+            "pbz-upstream-ip-addr": "",
             "tsk-id": "",
             "tsk-name": "tsk-app-prd"
         },
@@ -20,7 +20,7 @@
             "pbz-id": "",
             "pbz-name": "pbz-app-stg",
             "pbz-type": "primary",
-            "pbz-upstream-ip-address": "",
+            "pbz-upstream-ip-addr": "",
             "tsk-id": "",
             "tsk-name": "tsk-app-stg"
         },
@@ -32,7 +32,7 @@
             "pbz-id": "",
             "pbz-name": "pbz-app-dev",
             "pbz-type": "primary",
-            "pbz-upstream-ip-address": "",
+            "pbz-upstream-ip-addr": "",
             "tsk-id": "",
             "tsk-name": "tsk-app-prd"
         }

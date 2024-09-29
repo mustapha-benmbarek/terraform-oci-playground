@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "region-id": "eu-paris-1",
+      "region-name": "France Central (Paris)",
+      "comp-id": "",
+      "comp-name": "comp-app-prd",
+      "vcn-id": "",
+      "vcn-name": "vcn-app-prd",
+      "dhcp-id": "",
+      "dhcp-name": "dhcp-app-prd",
+      "dhcp-dns-type": "VcnLocalPlusInternet",
+      "dhcp-dns-server-addr": "",
+      "dhcp-dns-search-domain": "prd.example.com"
+    },
+    {
+      "region-id": "eu-paris-1",
+      "region-name": "France Central (Paris)",
+      "comp-id": "",
+      "comp-name": "comp-app-stg",
+      "vcn-id": "",
+      "vcn-name": "vcn-app-stg",
+      "dhcp-id": "",
+      "dhcp-name": "dhcp-app-stg",
+      "dhcp-dns-type": "VcnLocalPlusInternet",
+      "dhcp-dns-server-addr": "",
+      "dhcp-dns-search-domain": "stg.example.com"
+    },
+    {
+      "region-id": "eu-paris-1",
+      "region-name": "France Central (Paris)",
+      "comp-id": "",
+      "comp-name": "comp-app-dev",
+      "vcn-id": "",
+      "vcn-name": "vcn-app-dev",
+      "dhcp-id": "",
+      "dhcp-name": "dhcp-app-dev",
+      "dhcp-dns-type": "VcnLocalPlusInternet",
+      "dhcp-dns-server-addr": "",
+      "dhcp-dns-search-domain": "dev.example.com"
+    }
+  ]
+}

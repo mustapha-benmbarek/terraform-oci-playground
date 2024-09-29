@@ -7,7 +7,7 @@
             "comp-name": "comp-app-prd",
             "pbz-id": "",
             "pbz-name": "pbz-app-prd",
-            "upstream-srv-ip-address": "2.2.2.2",
+            "upstream-srv-ip-addr": "2.2.2.2",
             "tsk-id": "",
             "tsk-name": "tsk-app-prd"
         },
@@ -18,7 +18,7 @@
             "comp-name": "comp-app-stg",
             "pbz-id": "",
             "pbz-name": "pbz-app-stg",
-            "upstream-srv-ip-address": "4.4.4.4",
+            "upstream-srv-ip-addr": "4.4.4.4",
             "tsk-id": "",
             "tsk-name": "tsk-app-stg"
         },
@@ -29,7 +29,7 @@
             "comp-name": "comp-app-dev",
             "pbz-id": "",
             "pbz-name": "pbz-app-dev",
-            "upstream-srv-ip-address": "8.8.8.8",
+            "upstream-srv-ip-addr": "8.8.8.8",
             "tsk-id": "",
             "tsk-name": "tsk-app-dev"
         }
