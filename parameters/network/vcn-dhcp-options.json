@@ -10,7 +10,7 @@
       "dhcp-id": "",
       "dhcp-name": "dhcp-app-prd",
       "dhcp-dns-type": "VcnLocalPlusInternet",
-      "dhcp-dns-server-addr": "",
+      "dhcp-dns-server-addr": [],
       "dhcp-dns-search-domain": "prd.example.com"
     },
     {
@@ -23,7 +23,7 @@
       "dhcp-id": "",
       "dhcp-name": "dhcp-app-stg",
       "dhcp-dns-type": "VcnLocalPlusInternet",
-      "dhcp-dns-server-addr": "",
+      "dhcp-dns-server-addr": [],
       "dhcp-dns-search-domain": "stg.example.com"
     },
     {
@@ -36,7 +36,7 @@
       "dhcp-id": "",
       "dhcp-name": "dhcp-app-dev",
       "dhcp-dns-type": "VcnLocalPlusInternet",
-      "dhcp-dns-server-addr": "",
+      "dhcp-dns-server-addr": [],
       "dhcp-dns-search-domain": "dev.example.com"
     }
   ]
