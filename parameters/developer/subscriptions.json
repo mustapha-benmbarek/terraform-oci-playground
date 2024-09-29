@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "region-id": "eu-paris-1",
+            "region-name": "France Central (Paris)",
+            "comp-id": "",
+            "comp-name": "comp-app-prd",
+            "tpc-id": "",
+            "tpc-name": "tpc-app-prd",
+            "sub-id": "",
+            "sub-name": "sub-app-prd",
+            "sub-protocol": "EMAIL",
+            "sub-endpoint": "ops.team.prd@example.com"
+        },
+        {
+            "region-id": "eu-paris-1",
+            "region-name": "France Central (Paris)",
+            "comp-id": "",
+            "comp-name": "comp-app-stg",
+            "tpc-id": "",
+            "tpc-name": "tpc-app-stg",
+            "sub-id": "",
+            "sub-name": "sub-app-stg",
+            "sub-protocol": "EMAIL",
+            "sub-endpoint": "ops.team.stg@example.com"
+        },
+        {
+            "region-id": "eu-paris-1",
+            "region-name": "France Central (Paris)",
+            "comp-id": "",
+            "comp-name": "comp-app-dev",
+            "tpc-id": "",
+            "tpc-name": "tpc-app-dev",
+            "sub-id": "",
+            "sub-name": "sub-app-dev",
+            "sub-protocol": "EMAIL",
+            "sub-endpoint": "ops.team.dev@example.com"
+        }
+    ]
+}
