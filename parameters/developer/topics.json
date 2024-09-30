@@ -4,7 +4,7 @@
             "region-id": "eu-paris-1",
             "region-name": "France Central (Paris)",
             "comp-id": "",
-            "comp-name": "comp-app-prd",
+            "comp-name": "level1-prd",
             "tpc-id": "",
             "tpc-name": "tpc-app-prd",
             "tpc-description": "tpc-app-prd-description"
@@ -13,7 +13,7 @@
             "region-id": "eu-paris-1",
             "region-name": "France Central (Paris)",
             "comp-id": "",
-            "comp-name": "comp-app-stg",
+            "comp-name": "level1-stg",
             "tpc-id": "",
             "tpc-name": "tpc-app-stg",
             "tpc-description": "tpc-app-stg-description"
@@ -22,7 +22,7 @@
             "region-id": "eu-paris-1",
             "region-name": "France Central (Paris)",
             "comp-id": "",
-            "comp-name": "comp-app-dev",
+            "comp-name": "level1-dev",
             "tpc-id": "",
             "tpc-name": "tpc-app-dev",
             "tpc-description": "tpc-app-dev-description"

@@ -3,22 +3,49 @@
         {
             "region-id": "eu-paris-1",
             "region-name": "France Central (Paris)",
+            "comp-level": 1,
             "comp-parent-name": "",
-            "comp-name": "comp-app-prd",
+            "comp-name": "level1-prd",
             "comp-description": "Compartment Production"
         },
         {
             "region-id": "eu-paris-1",
             "region-name": "France Central (Paris)",
+            "comp-level": 1,
             "comp-parent-name": "",
-            "comp-name": "comp-app-stg",
+            "comp-name": "level1-stg",
             "comp-description": "Compartment Staging"
         },
         {
             "region-id": "eu-paris-1",
             "region-name": "France Central (Paris)",
+            "comp-level": 1,
             "comp-parent-name": "",
-            "comp-name": "comp-app-dev",
+            "comp-name": "level1-dev",
+            "comp-description": "Compartment Development"
+        },
+        {
+            "region-id": "eu-paris-1",
+            "region-name": "France Central (Paris)",
+            "comp-level": 2,
+            "comp-parent-name": "level1-prd",
+            "comp-name": "level2-prd",
+            "comp-description": "Compartment Production"
+        },
+        {
+            "region-id": "eu-paris-1",
+            "region-name": "France Central (Paris)",
+            "comp-level": 2,
+            "comp-parent-name": "level1-stg",
+            "comp-name": "level2-stg",
+            "comp-description": "Compartment Staging"
+        },
+        {
+            "region-id": "eu-paris-1",
+            "region-name": "France Central (Paris)",
+            "comp-level": 2,
+            "comp-parent-name": "level1-dev",
+            "comp-name": "level2-dev",
             "comp-description": "Compartment Development"
         }
     ]
