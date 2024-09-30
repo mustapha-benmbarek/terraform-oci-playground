@@ -6,6 +6,13 @@ module "oci-identity" {
 }
 
 /*Networking Stack..*/
+module "oci-network" {
+  source                = "../terraform-oci-core-network"
+  data-compartments     = module.oci-identity.compartments
+  json-vcns             = "${local.path.network}/vcns.json"
+  json-vcn-dhcp-options = "${local.path.network}/vcn-dhcp-options.json"
+}
+
 /*Security Stack..*/
 
 /*Developer Services Stack..*/
